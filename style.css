@@ -1,5 +1,9 @@
-html{
-    text-align: center;
-    margin-top: 300px;
-    font-size: 70px;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
+nav{
+    padding-left: 100px;
+}
+
